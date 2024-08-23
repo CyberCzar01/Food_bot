@@ -1,0 +1,4 @@
+telethon
+XlsxWriter
+python-dotenv
+aiomysql
